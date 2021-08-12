@@ -7,6 +7,6 @@ This app consists of two views -
   * Practice View
   * Input View
 
-Input view lets you add your own words and their explanations. 
-Practice view allows you to begin practicing and have fun.
+Input view will allow you to add your own words. 
+Practice view will allow you to begin practicing and have fun.
 (You can use it to learn acronyms, words, letters and so much more)
