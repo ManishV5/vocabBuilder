@@ -59,6 +59,8 @@ public class App extends Application {
         
         window.setScene(view);
         window.setTitle("Vocab Builder");
+        window.setWidth(600);
+        window.setHeight(480);
         window.show();
     }
 
