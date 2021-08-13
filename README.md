@@ -1,7 +1,7 @@
 # Vocab Builder
 
 A basic app that lets you grow your vocabulary.
-![inputView](inputView.png)
+![inputView](screenshot.png)
 
 This app consists of two views -
   * Practice View
