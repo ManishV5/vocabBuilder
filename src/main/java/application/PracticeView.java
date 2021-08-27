@@ -23,7 +23,7 @@ public class PracticeView {
     }
 
     public Parent getView() {
-        Label instructions = new Label("Type the transalation for the word: '" + this.word + "'");
+        Label instructions = new Label("Type the translation for the word: '" + this.word + "'");
         TextField enterTranslationField = new TextField();
         Button submitButton = new Button("Check answer");
         Label resultLabel = new Label("");
